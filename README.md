@@ -142,11 +142,11 @@ unban  - to unban a use
  ### Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/raixchat)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/MM_DISCUSSION)
 
 ### TELAGRAM SUPPORT 
 
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/piroxbots)
+* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/CURSED_LORD)
 
 
 
