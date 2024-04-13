@@ -66,9 +66,7 @@ IMDB = is_enabled((environ.get('IMDB', "False")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '<b> @MOTIONFILMS {file_name}</b> \n\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟏 </b> :- <b>t.me/+7Oy-KRDDqZ1jN2I1 </b>\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟐 </b> :- <b>t.me/+pfnkZeFaz6MxYmI1</b>\n🎪 <b> MOVIE DISCUSSIONS </b> :- <b>t.me/+iRUoJTZss9JiMmI0</b>\n🎪 <b>LATEST DVD UPDATES</b> :- <b>t.me/+IqgPFRSBmZU5YTZl</b>\n🎪 <b>LATEST PRE-DVD UPDATES</b> :- <b>t.me/+koNJ5Z9mgb5kMjZl</b>\n\n
-
-⚠️ <b>FILE WILL BE DELETE IN 5 MINUTES PLEASE FORWARD FILE TO SAVED MESSAGE OR ANYWHERE</b>')
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '<b> @MOTIONFILMS {file_name}</b> \n\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟏 </b> :- <b>t.me/+7Oy-KRDDqZ1jN2I1 </b>\n🎪 <b>𝐆𝐑𝐎𝐔𝐏 𝟐 </b> :- <b>t.me/+pfnkZeFaz6MxYmI1</b>\n🎪 <b> MOVIE DISCUSSIONS </b> :- <b>t.me/+iRUoJTZss9JiMmI0</b>\n🎪 <b>LATEST DVD UPDATES</b> :- <b>t.me/+IqgPFRSBmZU5YTZl</b>\n🎪 <b>LATEST PRE-DVD UPDATES</b> :- <b>t.me/+koNJ5Z9mgb5kMjZl</b>\n\n⚠️ <b>FILE WILL BE DELETE IN 5 MINUTES PLEASE FORWARD FILE TO SAVED MESSAGE OR ANYWHERE</b>')
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", '')
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", '🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> \n🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[𝖯𝖨𝖱𝖮]](t.me/MOTIONFILMS)')
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
